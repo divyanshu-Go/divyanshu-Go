@@ -1,4 +1,4 @@
-<a href="https://github.com/DivyanshuVerma1001" target="_blank">
+<a href="https://github.com/divyanshu-go" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&duration=300&pause=1500&color=2BE642&center=true&vCenter=true&width=1080&height=150&lines=Hello%2C+I+am+Divyanshu!;Welcome+to+my+profile!;%20" alt="Typing SVG"/>
 </a>
 <div align="center">
