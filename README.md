@@ -5,6 +5,13 @@
 <img src="https://github.com/user-attachments/assets/1af8b5bb-fa00-44c1-b5aa-c75e988437e4" align="center" style="width: 100%"/>
 </div>
 
+<h3 align="center">A passionate Next Js developer </h3>
+
+<p align="center">
+  <img src="./bg.png" align="center" style="width: 100%" alt="Divyanshu Verma" />
+  
+</p>
+
 
 # 💫 About Me:
 👋 Hi, I’m @divyanshu-Go<br>👀 I’m interested in WEB DEVELOPMENT using NextJs Framework.<br>🌱 I’m currently working on Nextjs Projects<br>💞️ I’m looking to collaborate with open source projects<br>📫 How to reach me : divyanshu930462@gmail.com<br>⚡ Fun fact: I am studying in MAIT, Delhi.
